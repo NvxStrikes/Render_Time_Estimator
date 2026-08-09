@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+id = "render_time_estimator"
+version = "1.0.0"
+name = "Render Time Estimator + Logger"
+tagline = "Predicts render time before you commit, tracks live ETA during render, and logs render history locally"
+maintainer = "NovaStrikes (Hamayl Shahbaz) <contact@novastrikes.com>"
+type = "add-on"
+website = "https://novastrikes.com/"
+tags = ["Render"]
+blender_version_min = "4.2.0"
+license = [
+    "SPDX:GPL-3.0-or-later",
+]
